@@ -1,0 +1,53 @@
+body{
+  background-color: #333;
+}
+/* Main + Header + Footer */
+header{
+  
+}
+main{
+  
+}
+footer{
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Anchor Tags */
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
